@@ -14,7 +14,7 @@ Population: Total national or regional population
 
 Blood Group Distribution: Percentages of the eight blood types: O+, A+, B+, AB+, O-, A-, B-, AB-
 
-Source: Wikipedia – Blood Type Distribution by Country
+Source: [Wikipedia – Blood Type Distribution by Country](https://en.wikipedia.org/wiki/Blood_type_distribution_by_country#cite_note-42)
 
 # Key Observations
  
