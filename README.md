@@ -24,7 +24,6 @@ China, with a population exceeding 1.39 billion, is the most populous country, h
 
 2. Most and Least Prevalent Blood Types
 O+ is the most common blood type worldwide, with a global prevalence of 38.4%. This makes it critically important for universal blood donation, particularly in trauma and disaster settings.
-
 AB-, with a global occurrence of just 0.01%, is the rarest blood type. Its scarcity creates challenges in emergency transfusions and donor matching.
 
 3. Notable Country-Specific Findings
@@ -79,4 +78,4 @@ This analysis highlights the critical role of blood type distribution data in he
 By combining data-driven insights with strategic implementation, nations can enhance their transfusion systems and contribute to a more resilient global health infrastructure.
 
 # Dashboard View
-![]()
+![](https://github.com/hasheeryusuf/GLOBAL-BLOOD-GROUP-DISTRIBUTION-ANALYSIS-FOR-THE-YEAR-2024/blob/main/TASK%2019B.png)
