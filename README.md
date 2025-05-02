@@ -19,14 +19,14 @@ Source: [Wikipedia – Blood Type Distribution by Country](https://en.wikipedia.
 # Key Observations
  
 
-1. Global Demographics and Influence
+# 1. Global Demographics and Influence
 China, with a population exceeding 1.39 billion, is the most populous country, heavily influencing global blood type distribution metrics.
 
-2. Most and Least Prevalent Blood Types
+# 2. Most and Least Prevalent Blood Types
 O+ is the most common blood type worldwide, with a global prevalence of 38.4%. This makes it critically important for universal blood donation, particularly in trauma and disaster settings.
 AB-, with a global occurrence of just 0.01%, is the rarest blood type. Its scarcity creates challenges in emergency transfusions and donor matching.
 
-3. Notable Country-Specific Findings
+# 3. Notable Country-Specific Findings
 Ecuador leads globally in O+ prevalence, with 75% of its population having this type, facilitating simplified transfusion logistics.
 
 In Armenia, 46.3% of citizens are A+, indicating the need for targeted inventory planning for this type.
