@@ -18,24 +18,24 @@ Source: [Wikipedia – Blood Type Distribution by Country](https://en.wikipedia.
 
 # Key Observations
  
-
 # 1. Global Demographics and Influence
-China, with a population exceeding 1.39 billion, is the most populous country, heavily influencing global blood type distribution metrics.
+    China, with a population exceeding 1.39 billion, is the most populous country, heavily influencing global blood type distribution metrics.
 
 # 2. Most and Least Prevalent Blood Types
-O+ is the most common blood type worldwide, with a global prevalence of 38.4%. This makes it critically important for universal blood donation, particularly in trauma and disaster settings.
-AB-, with a global occurrence of just 0.01%, is the rarest blood type. Its scarcity creates challenges in emergency transfusions and donor matching.
+    O+ is the most common blood type worldwide, with a global prevalence of 38.4%. This makes it critically important for universal blood donation, particularly in trauma and disaster settings.
+
+    AB-, with a global occurrence of just 0.01%, is the rarest blood type. Its scarcity creates challenges in emergency transfusions and donor matching.
 
 # 3. Notable Country-Specific Findings
-Ecuador leads globally in O+ prevalence, with 75% of its population having this type, facilitating simplified transfusion logistics.
+    Ecuador leads globally in O+ prevalence, with 75% of its population having this type, facilitating simplified transfusion logistics.
 
-In Armenia, 46.3% of citizens are A+, indicating the need for targeted inventory planning for this type.
+    In Armenia, 46.3% of citizens are A+, indicating the need for targeted inventory planning for this type.
 
-Thailand shows the highest frequency of B+, at 36.8%, a key consideration for national donor recruitment.
+    Thailand shows the highest frequency of B+, at 36.8%, a key consideration for national donor recruitment.
 
-North Korea reports 11.32% AB+, a group compatible with all other types, providing transfusion flexibility.
+    North Korea reports 11.32% AB+, a group compatible with all other types, providing transfusion flexibility.
 
-Zimbabwe has the highest percentages of O- (14.1%) and A- (8.1%), both rare and universal donor types, making it a critical node in regional and international transfusion networks.
+    Zimbabwe has the highest percentages of O- (14.1%) and A- (8.1%), both rare and universal donor types, making it a critical node in regional and international transfusion networks.
 
 # Strategic Recommendations
  
